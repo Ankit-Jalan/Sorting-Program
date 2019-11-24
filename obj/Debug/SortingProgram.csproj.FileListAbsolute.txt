@@ -1,0 +1,6 @@
+C:\Users\Ankit Jalan\source\repos\SortingProgram\SortingProgram\bin\Debug\SortingProgram.exe
+C:\Users\Ankit Jalan\source\repos\SortingProgram\SortingProgram\bin\Debug\SortingProgram.pdb
+C:\Users\Ankit Jalan\source\repos\SortingProgram\SortingProgram\obj\Debug\SortingProgram.csprojAssemblyReference.cache
+C:\Users\Ankit Jalan\source\repos\SortingProgram\SortingProgram\obj\Debug\SortingProgram.csproj.CoreCompileInputs.cache
+C:\Users\Ankit Jalan\source\repos\SortingProgram\SortingProgram\obj\Debug\SortingProgram.exe
+C:\Users\Ankit Jalan\source\repos\SortingProgram\SortingProgram\obj\Debug\SortingProgram.pdb
